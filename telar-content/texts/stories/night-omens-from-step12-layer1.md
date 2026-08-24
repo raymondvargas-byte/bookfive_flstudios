@@ -1,0 +1,6 @@
+---
+title: "Learn more"
+---
+
+As the warrior chases down and brawls with the ghost the outcome would be that the warrior tortures the ghost by threatening to tear its heart out. The warrior or some courageous temple satrap would then be able to demand the ghost for riches or in most cases strength needed to take many captives in battle, as described in book 5, chapter 4, folio 5v. To add on, whether the wish was granted or not would depend on the ghost as it decides what it would give. This leads to some getting misfortunes instead of their wishes. However, those who were strong would demand for thorns, as they were thought to bring prosperity and be revered in this world with the riches, honors, and insignias worthy of a brave man. On the other hand, the cowardly would be unable to either run or walk as they could only think of the multiple misfortunes that they would have.
+(Florentine Codex, bk. 5, Ch.3, fol. 5v. 6r. 6v. Los Angeles: Getty Research Institute, 2023. Accessed 23 August 2026.)

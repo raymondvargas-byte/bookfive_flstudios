@@ -1,0 +1,6 @@
+---
+title: "Learn more"
+---
+
+From this image one can easily dismiss the reasoning behind the colorway of the image. However, it is significant as it signifies that it is night time and is not surrounded by homes or buildings. This connected with the omen as it would occur upon two people instead of being in broad daylight. Although, when the sounds were heard in the night the people of Nahuatl would make offerings of reeds and pine branches. Specifically, temple priests called *tlamacazqueh* who would do these nocturnal exercises in the dead of the night. During this time the priests would also go on summits to do their offerings as they would fear the knockings as they thought of them as a bad omen. Also, the priests in the night during the summits would claim the sounds to be illusions from the Tezcatlipoca. However, it still remained a superstition as it would be among one individual with the "ghost" to overall test the faith of the Nahuatl people. 
+(Florentine Codex, bk. 5, Ch.3, fol. 4v. Los Angeles: Getty Research Institute, 2023. Accessed 23 August 2026.)

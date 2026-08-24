@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,book5folio6v,0.3975898634971288,0.40558271621659286,5.154475043029261,,Who are the men?,"The man in the left is more confident as he has a vibrant cape and is reaching out to the other headless man, he is a warrior. The man on the right is headless and has an open chest wound, he is a ghost. ",,Learn more,headless-man-story-learn-more.md,,,,,
+2,book5folio6v,0.44586553417268254,0.3877689563325448,7.77037112736661,,Why is one man headless?,,,,,,,,,
+3,book5folio6v,0.5053742726358292,0.40800463293816497,7.73171256454389,,Why does the background matter?,,,,,,,,,
